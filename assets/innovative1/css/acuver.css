@@ -1,0 +1,226 @@
+/* HERO SECTION START */
+section.hero-section h1 {
+  font-size: 70px;
+  font-weight: 800;
+  color: #000000;
+}
+
+section.hero-section img.hero-img-1,
+section.hero-section img.hero-img-2,
+section.hero-section img.hero-img-3 {
+  max-width: 200px;
+  width: 100%;
+  height: 120px;
+  object-fit: cover;
+}
+
+section.hero-section .affordability-block {
+  position: relative;
+}
+
+section.hero-section .affordability-block .sub-heading-block {
+  width: 250px;
+  position: absolute;
+  bottom: -70px;
+  right: -35px;
+}
+
+section.hero-section p.sub-heading {
+  font-size: 16px;
+  color: #000000;
+  font-weight: 500;
+  line-height: 1.5;
+}
+/* HERO SECTION END */
+
+/* IBM STERLING OMS SECTION START */
+section.ibm-sterling-oms h2.heading {
+  font-size: 50px;
+  font-weight: 600;
+  color: #ffffff;
+  margin-bottom: 25px;
+}
+
+section.ibm-sterling-oms h3.sub-heading {
+  font-size: 30px;
+  font-weight: 600;
+  color: #ffffff;
+  margin-bottom: 25px;
+}
+
+section.ibm-sterling-oms p.content {
+  font-size: 16px;
+  font-weight: 300;
+  color: #ffffff;
+  line-height: 1.8;
+  margin-bottom: 25px;
+}
+/* IBM STERLING OMS SECTION END */
+
+/* WHY CHOOSE IBM SECTION START */
+section.why-choose-ibm-section h2.heading {
+  font-size: 50px;
+  font-weight: 700;
+  color: #000000;
+}
+
+section.why-choose-ibm-section .block {
+  max-width: 300px;
+  margin: 0 auto;
+}
+
+section.why-choose-ibm-section .block h3 {
+  font-size: 30px;
+  font-weight: 600;
+  margin-top: 15px;
+  margin-bottom: 7px;
+}
+section.why-choose-ibm-section .block p {
+  font-size: 16px;
+  color: #000000;
+  font-weight: 400;
+  line-height: 1.5;
+}
+/* WHY CHOOSE IBM SECTION END */
+
+/* TOGETHER COST EFFECTIVE SECTION START */
+section.together-cost-effective-section h2.heading {
+  font-size: 35px;
+  font-weight: 600;
+  color: #000000;
+  margin-bottom: 25px;
+}
+
+section.together-cost-effective-section p.content {
+  font-size: 16px;
+  font-weight: 400;
+  color: #000000;
+  line-height: 1.8;
+  margin-bottom: 25px;
+}
+/* TOGETHER COST EFFECTIVE SECTION END */
+
+/* OUR CLIENT SECTION START */
+section.our-clients-section .block {
+  border: 1px solid #dddddd;
+  max-width: 300px;
+  margin: 0 auto;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 5px #dddddd;
+}
+
+section.our-clients-section .block.middle-block {
+  margin-bottom: 30px;
+}
+
+section.our-clients-section .block img.client-img {
+  width: 100%;
+  object-fit: cover;
+  background-color: #e3f0f7;
+}
+
+section.our-clients-section .block h4.name {
+  font-size: 23px;
+  font-weight: 600;
+  color: #000000;
+  margin-top: 15px;
+  margin-bottom: 7px;
+}
+
+section.our-clients-section .block p.content {
+  font-size: 16px;
+  font-weight: 400;
+  color: #949494;
+  line-height: 1.5;
+}
+
+section.our-clients-section .block p.read-more {
+  font-size: 15px;
+  font-weight: 400;
+  color: #949494;
+  line-height: 1.8;
+}
+
+section.our-clients-section .block img.read-more-icon {
+  margin-left: 5px;
+  width: 16px;
+}
+
+section.our-clients-section a.load-more-btn {
+  background-color: #5e81f4;
+  width: 170px;
+  color: #ffffff;
+  font-size: 14px;
+  border-radius: 30px;
+}
+
+section.our-clients-section a.load-more-btn:hover {
+  background-color: #3f5bd6;
+}
+
+section.our-clients-section h2.heading {
+  font-size: 45px;
+  font-weight: 600;
+  color: #000000;
+  text-align: center;
+}
+
+section.our-clients-section h3.sub-heading {
+  font-size: 18px;
+  font-weight: 600;
+  color: #a1a1a1;
+  text-align: center;
+  margin-bottom: 8px;
+  margin-top: 8px;
+}
+/* OUR CLIENT SECTION END */
+
+/* CONTACT US START */
+section.contact-us-section h2.heading {
+  font-size: 50px;
+  font-weight: 700;
+  color: #ffffff;
+}
+
+section.contact-us-section h3.sub-heading {
+  font-size: 20px;
+  font-weight: 500;
+  color: #ffffff;
+}
+
+section.contact-us-section p.content {
+  font-size: 16px;
+  font-weight: 400;
+  color: #ffffff;
+  line-height: 1.5;
+}
+
+section.contact-us-section a.contact-us-btn {
+  background-color: #5e81f4;
+  width: 150px;
+  color: #ffffff;
+  font-size: 14px;
+  border-radius: 30px;
+}
+
+section.contact-us-section .block {
+  background-color: #ffffff;
+  padding: 50px;
+  border-radius: 20px;
+}
+
+section.contact-us-section .block input {
+  width: 100%;
+  border: none;
+  margin-bottom: 0px;
+  padding-left: 5px;
+}
+
+section.contact-us-section p.form-content {
+  font-size: 14px;
+  font-weight: 400;
+  color: #7d7d7d;
+  line-height: 1.5;
+}
+/* CONTACT US END */
